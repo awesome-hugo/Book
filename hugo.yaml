@@ -1,0 +1,4 @@
+baseURL: https://awesome-hugo.github.io/Book/
+languageCode: en-us
+title: Hugo Book
+theme: hugo-book
